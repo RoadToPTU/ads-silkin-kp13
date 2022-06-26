@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgGy5IN/59WBrZelBp+VmaG9qO1HfzqPv4k9HF2B5v1C/YuMaBgxaqT9KU9fSTKEvVHyJPNxdj9okfIQfIm+Tw==",
+  "success": true,
+  "projectFilePath": "D:\\git repos\\ads-silkin-kp13\\lab6\\ASD_Lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JewOfTheSouthernSeas\\.nuget\\packages\\commonservicelocator\\2.0.6\\commonservicelocator.2.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
